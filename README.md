@@ -1,5 +1,3 @@
 # CS61CPU
 
-Look ma, I made a CPU! Here's what I did:
-
--
+I have to say: it took me a long time to finish this cpu.
